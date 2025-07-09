@@ -11,8 +11,8 @@
 - **Documentation:** https://fastapi.tiangolo.com/
 
 ### Database:
-- **Database:** PostgreSQL - Robust, reliable, and scalable relational database for user and video data.
-- **Documentation:** https://www.postgresql.org/docs/
+- **Database:** Supabase - An open source Firebase alternative with a dedicated Postgres database.
+- **Documentation:** https://supabase.com/docs
 
 ## Implementation Stages
 
@@ -21,15 +21,15 @@
 **Dependencies:** None
 
 #### Sub-steps:
-- [ ] Set up development environment (Node.js, Python, PostgreSQL)
-- [ ] Initialize Next.js project with TypeScript and App Router
-- [ ] Configure PostgreSQL database and connection (local setup)
-- [ ] Set up FastAPI backend with project structure
-- [ ] Install and configure Tailwind CSS and Aceternity UI
-- [ ] Set up environment variable management
-- [ ] Configure git repository and basic CI/CD
-- [ ] Set up API communication between frontend and backend
-- [ ] Create basic project documentation and README
+- [x] Set up development environment (Node.js, Python)
+- [x] Initialize Next.js project with TypeScript and App Router
+- [x] Configure Supabase project (local setup)
+- [x] Set up FastAPI backend with project structure
+- [x] Install and configure Tailwind CSS and Aceternity UI
+- [x] Set up environment variable management
+- [x] Configure git repository and basic CI/CD
+- [x] Set up API communication between frontend and backend
+- [x] Create basic project documentation and README
 
 ### Stage 2: Core Features (MVP)
 **Duration:** 3-4 weeks

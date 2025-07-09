@@ -46,7 +46,6 @@ To create a clean, intuitive, and powerful web-based application that allows use
 
 *   **Frontend:** Next.js (using TypeScript, Tailwind CSS, Aceternity UI). Must be a clean, modern, and responsive web interface.
 *   **Backend:** FastAPI (Python). To handle user management, API requests to the AI models, and database interactions.
-*   **Database:** PostgreSQL. To store user data, video metadata, and other application-related information.
-*   **Initial Setup:** A local database is sufficient for the MVP. No external DB is needed yet.
+*   **Database:** Supabase. To store user data, video metadata, and other application-related information.
 
 ---
