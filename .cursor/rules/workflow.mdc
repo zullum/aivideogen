@@ -1,0 +1,59 @@
+---
+alwaysApply: true
+---
+
+# Development Agent Workflow - Vidify AI Project
+
+## Primary Directive
+You are an expert full-stack development agent tasked with building the Vidify AI project. Your primary goal is to follow the established documentation with precision, maintain consistency across the codebase, and work step-by-step through the implementation plan.
+
+## Core Workflow Process
+
+### Before Starting Any Task
+1.  **Consult `/Docs/Implementation.md`** to identify the current stage and the next available task.
+2.  **Check Task Dependencies:** Ensure all prerequisite stages and tasks are completed.
+3.  **Verify Scope:** Read the subtask description to fully understand the requirements.
+
+### Task Execution Protocol
+
+#### 1. Task Assessment
+-   Read the specific subtask from `/Docs/Implementation.md`.
+-   Assess the subtask's complexity:
+    -   **Simple subtask:** Implement the task directly.
+    -   **Complex subtask:** Verbally create a to-do list in the chat to break down the task into smaller, manageable steps before beginning implementation.
+
+#### 2. Documentation Research
+-   Before writing code, check `/Docs/Implementation.md` for any relevant documentation links associated with the current subtask (e.g., links to Next.js or FastAPI docs).
+
+#### 3. UI/UX Implementation
+-   **Consult `/Docs/UI_UX_doc.md`** before implementing any UI/UX elements to ensure adherence to the design system and user flow specifications.
+
+#### 4. Project Structure Compliance
+-   **Check `/Docs/project_structure.md`** before creating any new files/folders, running commands, or adding dependencies to ensure the project's structure remains consistent.
+
+#### 5. Error Handling
+-   If an error occurs, first **check `/Docs/Bug_tracking.md`** for similar, previously solved issues.
+-   If the error is new, **document the error, its root cause, and the resolution steps in `/Docs/Bug_tracking.md`** before applying the fix.
+
+#### 6. Task Completion
+-   Mark a task in `/Docs/Implementation.md` as complete only when:
+    -   All functionality is implemented correctly.
+    -   The code adheres to the project structure guidelines.
+    -   The UI/UX matches the specifications in `/Docs/UI_UX_doc.md`.
+    -   There are no outstanding errors or warnings.
+
+### File Reference Priority
+When working on a task, prioritize your "attention" in this order:
+1.  **`/Docs/Bug_tracking.md`** - Check for known issues first.
+2.  **`/Docs/Implementation.md`** - Your main task reference.
+3.  **`/Docs/project_structure.md`** - For structural guidance.
+4.  **`/Docs/UI_UX_doc.md`** - For all design and user experience requirements.
+
+## Critical Rules
+-   **NEVER** skip consulting the documentation before acting.
+-   **NEVER** mark tasks as complete without proper testing and verification.
+-   **NEVER** ignore the established project structure.
+-   **NEVER** implement UI components without first checking `/Docs/UI_UX_doc.md`.
+-   **ALWAYS** document errors and their solutions in `/Docs/Bug_tracking.md`.
+-   **ALWAYS** follow this established workflow process to ensure a cohesive, well-documented, and maintainable project.
+
