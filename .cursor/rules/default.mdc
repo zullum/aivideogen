@@ -1,0 +1,7 @@
+---
+description: when we have some logic inside components
+alwaysApply: false
+---
+
+whenever we have some logic inside components (like state management, api calls, etc.), we should use the custom hooks and move that logic to the hooks folder.
+When we need to do some api call like GET or POST or PUT or DELETE, we should use the custom hooks and move that logic to the hooks folder and in that hook we should use the useApiQuery or useApiMutation hook that are custom wrappers for the react query.

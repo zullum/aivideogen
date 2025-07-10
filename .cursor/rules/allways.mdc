@@ -1,0 +1,10 @@
+---
+alwaysApply: true
+---
+Use SOLID and KISS principles for the code. Make code clean and readable.
+Do not make files with more than 200 lines of code. Refactor the code if it's too long.
+Use tanstack react query for api calls.
+Use zustand for state management.
+Use shadcn/ui for the components.
+Use tailwind css for the styling.
+Use react-hook-form for the form handling.

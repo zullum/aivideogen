@@ -1,0 +1,11 @@
+---
+description: When we need to add some text inside the app
+alwaysApply: false
+---
+When we need to add some text inside the app, we should use the translation.json file to add the text.
+We should use the i18next library to translate the text.
+We should use the react-i18next library to translate the text.
+We should use the i18next-resources-to-backend plugin to load the translations from the translation.json file.
+We should use the i18next-browser-languagedetector plugin to detect the language of the user.
+We should use the i18next-resources-to-backend plugin to load the translations from the translation.json file.
+For the start add the english and german translations but in both languages we should add the same English text.

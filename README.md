@@ -7,7 +7,7 @@ This project is a web application for generating videos from text prompts, refer
 ### Frontend
 
 - **Framework:** Next.js with TypeScript
-- **Styling:** Tailwind CSS & Aceternity UI
+- **Styling:** Tailwind CSS & Shadcn UI & Aceternity UI
 
 ### Backend
 

@@ -1,7 +1,7 @@
 # Product Requirements Document (PRD)
 
 ### **Product Name (Working Title):**
-Vidify AI - Your Personal AI Video Generator
+Vidify AI - Your Personal AI Short Video Cloner
 
 ### **Objective:**
 To create a clean, intuitive, and powerful web-based application that allows users to generate short, high-quality videos from text prompts using advanced AI models. The platform should provide a seamless experience from prompt to final video, with a personal library for users to manage their creations.
@@ -17,6 +17,9 @@ To create a clean, intuitive, and powerful web-based application that allows use
 **2. Video Generation Engine:**
 *   A simple and clear input area for users to enter their text prompt.
 *   A simplae and clear image upload area for users to upload an image to use as a reference for the video generation.
+*   A simplae and clear video upload area for users to upload a video to use as a reference for the video generation.
+*   A simplae and clear audio upload area for users to upload an audio to use as a reference for the video generation.
+*   A simplae and clear video url input area for users to upload a video url to use as a reference for the video generation.
 *   An options panel to select video style (e.g., cinematic, anime, realistic) and aspect ratio (e.g., 16:9, 1:1, 9:16).
 *   The backend will send requests to a third-party AI video generation model's API (e.g., OpenAI's Sora, Runway, Pika).
 
@@ -36,15 +39,12 @@ To create a clean, intuitive, and powerful web-based application that allows use
 *   **Advanced Generation Controls:** Add parameters like camera angle, motion control, and character consistency.
 *   **Audio Integration:** Allow users to add background music or AI-generated voiceovers.
 *   **Video-to-Video Transformation:** Upload a source video and transform it with a text prompt.
-*   **Team Collaboration:** Shared libraries and project folders for teams.
-*   **API Access:** Provide API access for other developers to integrate Vidify AI's capabilities.
-*   **Subscription Tiers:** Introduce tiered pricing for higher resolution, longer videos, and watermark removal.
 
 ---
 
 ### **Technical Stack & Requirements:**
 
-*   **Frontend:** Next.js (using TypeScript, Tailwind CSS, Aceternity UI). Must be a clean, modern, and responsive web interface.
+*   **Frontend:** Next.js (using TypeScript, Shadcn, Aceternity UI, Tailwind CSS). Must be a clean, modern, and responsive web interface.
 *   **Backend:** FastAPI (Python). To handle user management, API requests to the AI models, and database interactions.
 *   **Database:** Supabase. To store user data, video metadata, and other application-related information.
 
