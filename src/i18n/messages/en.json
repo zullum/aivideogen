@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "badge": "✨ AI-Powered Video Generation",
+    "title": "Create Stunning Videos with",
+    "titleHighlight": "AI Magic",
+    "description": "Transform your ideas into captivating videos in minutes. Our advanced AI technology brings your imagination to life with professional-quality results.",
+    "ctaPrimary": "Start Creating Free",
+    "ctaSecondary": "Watch Demo",
+    "stats": {
+      "videosCreated": "Videos Created",
+      "avgGeneration": "Avg. Generation",
+      "successRate": "Success Rate"
+    }
+  },
+  "features": {
+    "title": "Powerful Features for",
+    "titleHighlight": "Creative Freedom",
+    "description": "Everything you need to create stunning videos with the power of AI",
+    "items": {
+      "textToVideo": {
+        "title": "Text to Video",
+        "description": "Transform any text prompt into stunning videos with AI-powered generation"
+      },
+      "imageAnimation": {
+        "title": "Image Animation",
+        "description": "Bring static images to life with smooth, realistic animations"
+      },
+      "styleTransfer": {
+        "title": "Style Transfer",
+        "description": "Apply artistic styles and visual effects to your videos"
+      },
+      "fastGeneration": {
+        "title": "Fast Generation",
+        "description": "Generate high-quality videos in minutes, not hours"
+      },
+      "easySharing": {
+        "title": "Easy Sharing",
+        "description": "Share your creations instantly across all platforms"
+      },
+      "aiEnhancement": {
+        "title": "AI Enhancement",
+        "description": "Automatically enhance video quality and resolution"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Create Amazing Videos?",
+    "description": "Join thousands of creators who are already using our AI platform to bring their ideas to life.",
+    "ctaPrimary": "Get Started Free",
+    "ctaSecondary": "Watch Demo",
+    "footer": "No credit card required • Free tier available • Cancel anytime"
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "share": "Share",
+    "download": "Download"
+  }
+}

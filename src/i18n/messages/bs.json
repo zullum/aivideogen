@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "badge": "✨ AI-Pokretana Generacija Videa",
+    "title": "Kreirajte Zadivljujuće Videozapise sa",
+    "titleHighlight": "AI Magijom",
+    "description": "Pretvorite svoje ideje u očaravajuće videozapise za nekoliko minuta. Naša napredna AI tehnologija oživljava vašu maštu sa profesionalnim rezultatima.",
+    "ctaPrimary": "Počnite Besplatno",
+    "ctaSecondary": "Pogledajte Demo",
+    "stats": {
+      "videosCreated": "Kreiranih Videozapisa",
+      "avgGeneration": "Prosječno Vrijeme",
+      "successRate": "Stopa Uspjeha"
+    }
+  },
+  "features": {
+    "title": "Moćne Funkcije za",
+    "titleHighlight": "Kreativnu Slobodu",
+    "description": "Sve što vam je potrebno za kreiranje zadivljujućih videozapisa snagom AI",
+    "items": {
+      "textToVideo": {
+        "title": "Tekst u Video",
+        "description": "Pretvorite bilo koji tekstualni prompt u zadivljujuće videozapise sa AI-pokretanom generacijom"
+      },
+      "imageAnimation": {
+        "title": "Animacija Slika",
+        "description": "Oživite statičke slike glatkim, realističnim animacijama"
+      },
+      "styleTransfer": {
+        "title": "Prijenos Stila",
+        "description": "Primijenite umjetničke stilove i vizualne efekte na vaše videozapise"
+      },
+      "fastGeneration": {
+        "title": "Brza Generacija",
+        "description": "Generišite visokokvalitetne videozapise za minute, a ne sate"
+      },
+      "easySharing": {
+        "title": "Jednostavno Dijeljenje",
+        "description": "Podijelite svoje kreacije trenutno na svim platformama"
+      },
+      "aiEnhancement": {
+        "title": "AI Poboljšanje",
+        "description": "Automatski poboljšajte kvalitet i rezoluciju videozapisa"
+      }
+    }
+  },
+  "cta": {
+    "title": "Spremni za Kreiranje Nevjerovatnih Videozapisa?",
+    "description": "Pridružite se hiljadama kreatora koji već koriste našu AI platformu da ožive svoje ideje.",
+    "ctaPrimary": "Započnite Besplatno",
+    "ctaSecondary": "Pogledajte Demo",
+    "footer": "Nije potrebna kreditna kartica • Besplatan nivo dostupan • Otkazivanje bilo kada"
+  },
+  "navigation": {
+    "home": "Početna",
+    "features": "Funkcije",
+    "pricing": "Cijene",
+    "about": "O Nama",
+    "login": "Prijava",
+    "signup": "Registracija"
+  },
+  "common": {
+    "loading": "Učitavanje...",
+    "error": "Došlo je do greške",
+    "retry": "Pokušajte ponovo",
+    "cancel": "Otkaži",
+    "save": "Sačuvaj",
+    "delete": "Izbriši",
+    "edit": "Uredi",
+    "share": "Podijeli",
+    "download": "Preuzmi"
+  }
+}
